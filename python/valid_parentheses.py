@@ -1,4 +1,4 @@
-# https://www.codewars.com/kata/6411b91a5e71b915d237332d/python
+# https://www.codewars.com/kata/6411b91a5e71b915d237332d
 
 # DESCRIPTION:
 # Write a function that takes a string of parentheses, and determines if the order of the 
