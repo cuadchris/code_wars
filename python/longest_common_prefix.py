@@ -45,3 +45,20 @@ class Solution:
         return ''
     
 # The initial ugly, and brute forcy version of solution. Will come back and optimize.
+
+class Solution:
+    def longestCommonPrefix(self, strs: List[str]) -> str:
+
+        res = ''
+
+        for i in range(len(strs[0])):
+            for j in range(1, len(strs)):
+                if i == len(strs[j]) or not strs[j][i] == strs[0][i]:
+                    return res
+
+            res += strs[0][i]
+
+        return res
+    
+# In this solution we're not wasting space with an extra array anymore, and we're building 
+# up the prefix from the beginning, rather than looping backwards. I like both.
