@@ -19,7 +19,6 @@
 # other.
 
 def drop_while(arr, pred):
-    
     for index, value in enumerate(arr):
         if not pred(value):
             return arr[index:]
