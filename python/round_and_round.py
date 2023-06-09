@@ -47,6 +47,12 @@
 # Ram will walk clockwise around the house, counting the entrances as follows: 1->2->3->4.
 
 def round_and_round(n, a, b):
-    
+
     if b == 0: return a
     return ((a + b - 1) % n + n) % n + 1
+
+# top solution on codewars
+
+def round_and_round(n, a, b):
+
+    return (a + b) % n or n
