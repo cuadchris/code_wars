@@ -19,3 +19,9 @@
 def totalAmountVisible(topNum, numOfSides):
     
     return sum(x for x in range(numOfSides + 1)) - abs(topNum - (numOfSides + 1))
+
+
+# Top solution from the site:
+def totalAmountVisible(topNum, numOfSides):
+
+    return numOfSides * (numOfSides + 1)/2 - (numOfSides - topNum + 1)
