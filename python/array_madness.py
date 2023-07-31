@@ -14,3 +14,7 @@
 
 def array_madness(a,b):
     return sum(x**2 for x in a) > sum(x**3 for x in b)
+
+# cool lambda
+def array_madness(a,b):
+    return sum(map(lambda a: a ** 2, a)) > sum(map(lambda b: b ** 3, b))
