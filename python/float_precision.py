@@ -11,6 +11,6 @@
 def solution(n):
     return int(n * 100 + 0.5) / 100.0
 
-# Or just this
+# Or just this, but where's the fun in that?
 def solution(n):
     return round(n,2)
