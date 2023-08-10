@@ -27,3 +27,11 @@ def format_poem(poem):
 
 # This one messed with me more than I thought it would. Anybody else overlook exactly
 # how much you can achieve with the join function, or is it just me?
+
+# Saw this on the solutions tab, lol!
+from re import sub
+
+# Try to solve this challenge with the str.split() and the str.join() string methods.
+# -> No
+def format_poem(poem):
+    return sub(r"(?<=\.)\s", "\n", poem)
