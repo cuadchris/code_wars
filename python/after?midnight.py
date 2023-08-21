@@ -26,6 +26,8 @@ def day_and_time(mins):
     # I love using modulus to wrap around arrays. So cool.
     day = days[mins // (60 * 24) % len(days)]
     
+    # Just discovered the zfill function. Depending on the value you pass in, it'll add
+    # '0's to fill in the gaps. So '0' becomes '00', and 2 would become '02'. Very nifty.
     hour = str(mins // 60 % 24).zfill(2)
     
     seconds = str(mins % 60).zfill(2)
