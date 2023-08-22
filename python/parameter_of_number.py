@@ -44,3 +44,5 @@ def parameter(n):
         LCM += old_mult
         
     return LCM
+
+# Yes, there is an lcm function within the math module, but where's the fun in that?
