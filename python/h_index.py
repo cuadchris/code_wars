@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/h-index/
+
 # Given an array of integers citations where citations[i] is the number of citations a researcher received for 
 # their ith paper, return the researcher's h-index.
 
@@ -23,7 +25,8 @@
 # 1 <= n <= 5000
 # 0 <= citations[i] <= 1000
 
-# I found this problem in the introduction to EPI. Was plesantly surprised to see it on leetcode.
+# I found this problem in the introduction to Elements of Programming Interviews In Python.
+# Pleasantly surprised to see it on leetcode.
 
 class Solution:
     def hIndex(self, citations: List[int]) -> int:
