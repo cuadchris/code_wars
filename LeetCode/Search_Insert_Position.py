@@ -31,7 +31,6 @@
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
 
-        size = len(nums)
         left, right = 0, len(nums)
 
         while left < right:
