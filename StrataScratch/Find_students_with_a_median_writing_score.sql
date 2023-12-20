@@ -1,4 +1,6 @@
 /*
+https://platform.stratascratch.com/coding/9610-find-students-with-a-median-writing-score?code_type=1
+
 Output ids of students with a median score from the writing SAT.
 
 Table: sat_scores
