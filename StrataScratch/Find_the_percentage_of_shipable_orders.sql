@@ -1,4 +1,6 @@
 /*
+https://platform.stratascratch.com/coding/10090-find-the-percentage-of-shipable-orders?code_type=1
+
 Find the percentage of shipable orders.
 Consider an order is shipable if the customer's address is known.
 
