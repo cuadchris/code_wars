@@ -1,4 +1,6 @@
 /*
+https://platform.stratascratch.com/coding/2024-unique-users-per-client-per-month?code_type=1
+
 Write a query that returns the number of unique users per client per month
 
 Table: fact_events
