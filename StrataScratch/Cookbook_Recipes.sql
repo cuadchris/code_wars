@@ -1,4 +1,6 @@
 /*
+https://platform.stratascratch.com/coding/2089-cookbook-recipes?code_type=1
+
 You are given the table with titles of recipes from a cookbook and their page numbers. You are asked to represent
 how the recipes will be distributed in the book. Produce a table consisting of three columns: left_page_number,
 left_title and right_title. The k-th row (counting from 0), should contain the number and the title of the page
