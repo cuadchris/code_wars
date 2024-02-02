@@ -1,4 +1,6 @@
 /*
+https://platform.stratascratch.com/coding/10026-find-all-wineries-which-produce-wines-by-possessing-aromas-of-plum-cherry-rose-or-hazelnut?code_type=1
+
 Find all wineries which produce wines by possessing aromas of plum, cherry, rose, or hazelnut. To make it more
 simple, look only for singular form of the mentioned aromas. HINT: if one of the specified words is just a
 substring of another word, this should not be a hit, but a miss.
