@@ -1,4 +1,6 @@
 /*
+https://platform.stratascratch.com/coding/9817-find-the-number-of-times-each-word-appears-in-drafts?code_type=1
+
 Find the number of times each word appears in drafts.
 Output the word along with the corresponding number of occurrences.
 
