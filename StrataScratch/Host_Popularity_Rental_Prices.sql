@@ -1,4 +1,6 @@
 /*
+https://platform.stratascratch.com/coding/9632-host-popularity-rental-prices?code_type=1
+
 You’re given a table of rental property searches by users. The table consists of search results and outputs host
 information for searchers. Find the minimum, average, maximum rental prices for each host’s popularity rating.
 The host’s popularity rating is defined as below:
