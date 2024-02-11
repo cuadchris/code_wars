@@ -1,4 +1,6 @@
 /*
+https://platform.stratascratch.com/coding/10303-top-percentile-fraud?code_type=1
+
 ABC Corp is a mid-sized insurer in the US and in the recent past their fraudulent claims have increased
 significantly for their personal auto insurance portfolio. They have developed a ML based predictive model to
 identify propensity of fraudulent claims. Now, they assign highly experienced claim adjusters for top 5
