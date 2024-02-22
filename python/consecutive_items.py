@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/5f6d533e1475f30001e47514
+
 DESCRIPTION:
 
 You are given a list of unique integers arr, and two integers a and b. Your task is to find out whether or not
