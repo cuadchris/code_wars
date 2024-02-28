@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/5912ded3f9f87fd271000120
+
 DESCRIPTION:
 
 Consider a game, wherein the player has to guess a target word. All the player knows is the length of the target
