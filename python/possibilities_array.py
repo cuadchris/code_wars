@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/59b710ed70a3b7dd8f000027
+
 DESCRIPTION:
 
 A non-empty array a of length n is called an array of all possibilities if it contains all numbers between 0 and a.length - 1
