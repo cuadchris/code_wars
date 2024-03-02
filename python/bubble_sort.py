@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/57403b5ad67e87b5e7000d1d
+
 #Bubbleing around
 
 Since everybody hates chaos and loves sorted lists we should implement some more sorting algorithms. Your task
