@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/56541980fa08ab47a0000040
+
 DESCRIPTION:
 
 In a factory a printer prints labels for boxes. For one kind of boxes the printer has to use colors which, for
