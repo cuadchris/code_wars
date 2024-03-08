@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/6512b3775bf8500baea77663
+
 DESCRIPTION:
 
 Given a string indicating a range of letters, return a string which includes all the letters in that range,
