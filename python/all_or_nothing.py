@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/65112af7056ad6004b5672f8
+
 DESCRIPTION:
 
 Suppose a student can earn 100% on an exam by getting the answers all correct or all incorrect. Given a potentially
