@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/55a996e0e8520afab9000055
+
 DESCRIPTION:
 
 For this problem you must create a program that says who ate the last cookie. If the input is a string then
