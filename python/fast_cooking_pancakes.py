@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/58552bdb68b034a1a80001fb
+
 DESCRIPTION:
 
 You need to cook pancakes, but you are very hungry. As known, one needs to fry a pancake one minute on
