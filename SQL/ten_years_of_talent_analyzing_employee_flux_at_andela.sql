@@ -1,4 +1,6 @@
 /*
+https://www.codewars.com/kata/663c986dbbe60f0048524702
+
 DESCRIPTION:
 
 As Andela celebrates its 10th anniversary, this SQL challenge aims to shed light on the company’s staffing
