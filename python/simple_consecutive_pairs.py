@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/5a3e1319b6486ac96f000049
+
 DESCRIPTION:
 
 In this Kata your task will be to return the count of pairs that have consecutive numbers as follows:
