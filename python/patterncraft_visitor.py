@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/5682e646d5eddc1e21000017
+
 DESCRIPTION:
 
 The Visitor Design Pattern can be used, for example, to determine how an attack deals a different amount of
