@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/5862eeeae20244d5eb000005
+
 DESCRIPTION:
 You're writing an excruciatingly detailed alternate history novel set in a world where Daniel Gabriel
 Fahrenheit was never born.
