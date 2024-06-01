@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/5b047875de4c7f9af800011b
+
 DESCRIPTION:
 The input will be an array of dictionaries.
 
