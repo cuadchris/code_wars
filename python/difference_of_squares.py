@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/558f9f51e85b46e9fa000025
+
 DESCRIPTION:
 Recreation of Project Euler problem #6
 
