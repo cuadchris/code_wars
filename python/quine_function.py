@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/61c49a1045dba2004e7acd1f
+
 DESCRIPTION:
 
 Quine is a nonempty program that prints itself. Your task is bit different than that. Write a function
