@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/5df261342964c80028345a0a
+
 DESCRIPTION:
 A parity bit, or check bit, is a bit added to a string of bits to ensure that the total number of 1-bits
 in the string is even or odd. Parity bits are used as the simplest form of error detecting code.
