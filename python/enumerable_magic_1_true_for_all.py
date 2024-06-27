@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/54598d1fcbae2ae05200112c
+
 DESCRIPTION:
 
 Create a method all which takes two params:
