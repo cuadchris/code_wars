@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/562d8d4c434582007300004e
+
 DESCRIPTION:
 
 Many people choose to obfuscate their email address when displaying it on the Web. One common way of
