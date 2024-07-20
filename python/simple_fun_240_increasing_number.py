@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/59094c5d579da9aceb000037
+
 DESCRIPTION:
 
 You are given a positive integer x and you should perform n operations, where on the ith operation you
