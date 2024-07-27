@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/5a5f48f2880385daac00006c
+
 DESCRIPTION:
 
 Consider an array containing cats and dogs. Each dog can catch only one cat, but cannot catch a cat that
