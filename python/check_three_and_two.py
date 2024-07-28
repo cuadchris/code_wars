@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/5a9e86705ee396d6be000091
+
 DESCRIPTION:
 
 Given an array with exactly 5 strings "a", "b" or "c" (chars in Java, characters in Fortran), check if
