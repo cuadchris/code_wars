@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/5659c6d896bc135c4c00021e
+
 DESCRIPTION:
 
 Write a function that takes a positive integer and returns the next smaller positive integer containing
