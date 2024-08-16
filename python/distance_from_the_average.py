@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/568ff914fc7a40a18500005c
+
 Description:
 
 Given a starting list/array of data, it could make some statistical sense to know how much each value
