@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/52685f7382004e774f0001f7
+
 Description:
 
 Write a function, which takes a non-negative integer (seconds) as input and returns the time in a
