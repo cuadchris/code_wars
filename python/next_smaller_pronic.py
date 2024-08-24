@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/5a90f6d457c5624ecc000012
+
 Description:
 
 The challenge is to efficiently find the largest pronic number less than the method's input.
