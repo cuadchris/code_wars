@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/5809c661f15835266900010a
+
 Description:
 
 Write a function that doubles every second integer in a list, starting from the left.
