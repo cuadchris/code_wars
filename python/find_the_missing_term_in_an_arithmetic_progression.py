@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/52de553ebb55d1fca3000371
+
 Description:
 
 An Arithmetic Progression is defined as one in which there is a constant difference between the
