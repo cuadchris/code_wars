@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/6545283611df271da7f8418c
+
 DESCRIPTION:
 
 Write a function three_powers() to accept a number, to check can it represent as sum of 3 powers of 2.
