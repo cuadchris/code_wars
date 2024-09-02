@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3
+
 DESCRIPTION:
 Write a function to convert a name into initials. This kata strictly takes two words with one space in
 between them.
