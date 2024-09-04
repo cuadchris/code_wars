@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/52f3a8e1f85fadcdf7001e31
+
 DESCRIPTION:
 
 You have to define a function to calculate the division of two factorial numbers. This can be useful for
