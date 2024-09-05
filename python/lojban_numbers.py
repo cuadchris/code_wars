@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/6584b7cac29ca91dd9124009
+
 DESCRIPTION:
 
 Counting in Lojban, an artificial language developed over the last forty years, is easier than in most
