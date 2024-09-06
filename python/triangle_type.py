@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/triangle-type
+
 DESCRIPTION:
 
 In this kata, you should calculate type of triangle with three given sides a, b and c 
