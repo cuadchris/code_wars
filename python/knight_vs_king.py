@@ -1,27 +1,29 @@
-# https://www.codewars.com/kata/564e1d90c41a8423230000bc
+'''
+https://www.codewars.com/kata/564e1d90c41a8423230000bc
 
-# DESCRIPTION:
-# Knight vs King
-# If you are not familiar with chess game you can learn more Here .
+DESCRIPTION:
+Knight vs King
+If you are not familiar with chess game you can learn more Here .
 
-# Here is the chess board (rows, denoted by numbers, are called ranks, columns, denoted by a
-# letter, are called files):
+Here is the chess board (rows, denoted by numbers, are called ranks, columns, denoted by a
+letter, are called files):
 
-# You put a Knight and a King in the board.
+You put a Knight and a King in the board.
 
-# Complete the method that tell us which one can capture the other one.
+Complete the method that tell us which one can capture the other one.
 
-# You are provided with two object array; each contains an integer (the rank, first item) and a
-# string/char (the file, second item) to show the position of the pieces in the chess board.
+You are provided with two object array; each contains an integer (the rank, first item) and a
+string/char (the file, second item) to show the position of the pieces in the chess board.
 
-# Return:
+Return:
 
-# "Knight" if the knight is putting the king in check,
-# "King" if the king is attacking the knight
-# "None" if none of the above occur
-# Example:
+"Knight" if the knight is putting the king in check,
+"King" if the king is attacking the knight
+"None" if none of the above occur
+Example:
 
-# knight = [7, "B"], king = [6, "C"]  ---> "King"
+knight = [7, "B"], king = [6, "C"]  ---> "King"
+'''
 
 def knight_vs_king(knight_position, king_position):
     # Three possible outputs are "Knight", "King", and "None"
