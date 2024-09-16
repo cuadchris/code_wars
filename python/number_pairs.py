@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/563b1f55a5f2079dc100008a
+
 DESCRIPTION:
 
 In this kata the aim is to compare each pair of integers from two arrays, and return a new array of large
