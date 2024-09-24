@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/58693136b98de0e4910001ab
+
 DESCRIPTION:
 
 You'll be given a string of random characters (numbers, letters, and symbols). To decode this string into
