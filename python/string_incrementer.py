@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/54a91a4883a7de5d7800009c
+
 DESCRIPTION:
 Your job is to write a function which increments a string, to create a new string.
 
