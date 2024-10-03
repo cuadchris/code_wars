@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/59dd3ccdded72fc78b000b25
+
 Description:
 
 Complete the function which returns the weekday according to the input number:
