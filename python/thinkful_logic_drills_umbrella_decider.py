@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/5865a28fa5f191d35f0000f8
+
 DESCRIPTION:
 
 Write a function take_umbrella() that takes two arguments: a string representing the current weather and
