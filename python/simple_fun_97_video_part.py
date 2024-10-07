@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/589809f0fcc4b92ea200033a
+
 DESCRIPTION:
 
 You have been watching a video for some time. Knowing the total video duration find out what portion of
