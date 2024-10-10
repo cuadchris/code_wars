@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/597eeb0136f4ae84f9000001
+
 DESCRIPTION:
 
 Returns the bank account number parsed from specified string.
