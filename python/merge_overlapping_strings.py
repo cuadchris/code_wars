@@ -1,4 +1,6 @@
 '''
+https://www.codewars.com/kata/61c78b57ee4be50035d28d42
+
 DESCRIPTION:
 
 This kata requires you to write a function which merges two strings together. It does so by merging the
