@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/5902f1839b8e720287000028
+
 # DESCRIPTION:
 
 # Let's define a parameter of number n as the least common multiple (LCM) of the sum of 
