@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/645fb55ecf8c290031b779ef/python
 
 DESCRIPTION:
+
 A latin square is an n × n array filled with the integers 1 to n, each occurring once in each row and column.
 
 Here are examples of latin squares of size 4 and 7:
