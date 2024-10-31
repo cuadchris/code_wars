@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/577a6e90d48e51c55e000217/python
 
 DESCRIPTION:
+
 The Collatz conjecture (also known as 3n+1 conjecture) is a conjecture that applying the following 
 algorithm to any number we will always eventually reach one:
 
