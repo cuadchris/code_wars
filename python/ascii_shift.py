@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/56e9ac87c3e7d512bc001363/python
 
 Ascii Shift Encryption/Decryption
+
 The goal of this kata is to create a very simple ASCII encryption and decryption. 
 The encryption algorithm should shift each character's charcode by the character's 
 current index in the string (0-based).
