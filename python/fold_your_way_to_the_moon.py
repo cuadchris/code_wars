@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/58f0ba42e89aa6158400000e
 
 DESCRIPTION:
+
 Have you heard about the myth that if you fold a paper enough times, you can reach the moon
 with it? Sure you have, but exactly how many? Maybe it's time to write a program to figure it out.
 
