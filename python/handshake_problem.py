@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/5574835e3e404a0bed00001b
 
 DESCRIPTION:
+
 Johnny is a farmer and he annually holds a beet farmers convention "Drop the beet".
 
 Every year he takes photos of farmers handshaking. Johnny knows that no two farmers handshake 
