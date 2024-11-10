@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/59dbab4d7997cb350000007f
 
 DESCRIPTION:
+
 Two strings a and b are called isomorphic if there is a one to one mapping possible for every character 
 of a to every character of b. And all occurrences of every character in a map to same character in b.
 
