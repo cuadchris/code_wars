@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/574b1916a3ebd6e4fa0012e7/python
 
 DESCRIPTION:
+
 Task
 Give you two strings: s1 and s2. If they are opposite, return true; otherwise, return false. Note: The result 
 should be a boolean value, instead of a string.
