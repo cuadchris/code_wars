@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/59811fd8a070625d4c000013/python
 
 DESCRIPTION:
+
 Create a function that finds the integral of the expression passed.
 
 In order to find the integral all you need to do is add one to the exponent (the second argument), and divide the coefficient (the first argument) by that new number.
