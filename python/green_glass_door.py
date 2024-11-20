@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/5642bf07a586135a6f000004/python
 
 DESCRIPTION:
+
 Step through my green glass door.
 
 You can take the moon, but not the sun.
