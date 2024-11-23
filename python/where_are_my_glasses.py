@@ -1,5 +1,6 @@
 '''
 DESCRIPTION:
+
 Oh no! I've lost my glasses, but paradoxically, I need glasses to find my glasses!
 
 Please help me out by showing me the index in the list which contains my glasses. They look like two
