@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/583df40bf30065fa9900010c/python
 
 DESCRIPTION:
+
 Write a function that takes as parameters an array (arr) and 2 integers (x and y). The 
 function should return the mean between the mean of the the first x elements of the 
 array and the mean of the last y elements of the array.
