@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/5442e4fc7fc447653a0000d5
 
 DESCRIPTION:
+
 The goal of this Kata is to return the greatest distance of index positions between matching 
 number values in an array or 0 if there are no matching values.
 
