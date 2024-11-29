@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/5898b4b71d298e51b600014b/python
 
 DESCRIPTION:
+
 You have to sort the inner content of every word of a string in descending order.
 
 The inner content is the content of a word without first and the last char.
