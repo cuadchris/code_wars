@@ -1,7 +1,7 @@
 '''
 https://www.codewars.com/kata/605f5d33f38ca800322cb18f/python
 
-Tap Code Translation
+Tap Code Translation:
 Tap code is a way to communicate using a series of taps and pauses for each letter. In this kata, we
 will use dots . for the taps and whitespaces for the pauses.
 
