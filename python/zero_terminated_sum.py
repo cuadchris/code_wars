@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/5a2d70a6f28b821ab4000004
 
 DESCRIPTION:
+
 This kata is part of the collection Mary's Puzzle Books.
 
 Zero Terminated Sum
