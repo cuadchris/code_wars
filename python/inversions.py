@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/537529f42993de0e0b00181f
 
 DESCRIPTION:
+
 Array inversion indicates how far the array is from being sorted.
 
 Inversions are pairs of elements in array that are out of order.
