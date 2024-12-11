@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/5868812b15f0057e05000001/python
 
 DESCRIPTION:
+
 You'll be given a list of two strings, and each will contain exactly one colon (":") in 
 the middle (but not at beginning or end). The length of the strings, before and after 
 the colon, are random.
