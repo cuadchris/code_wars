@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/56b0f6243196b9d42d000034/python
 
 DESCRIPTION:
+
 Factorials are often used in probability and are used as an introductory problem for looping 
 constructs. In this kata you will be summing together multiple factorials.
 
