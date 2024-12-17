@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/636173d79cf0de003d6834e4
 
 DESCRIPTION:
+
 You are a robot.
 
 As a robot, you are programmed to take walks following a path.
