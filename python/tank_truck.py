@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/55f3da49e83ca1ddae0000ad
 
 DESCRIPTION:
+
 6kyu
 To introduce the problem think to my neighbor who drives a tanker truck.
 The level indicator is down and he is worried because he does not know if
