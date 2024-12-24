@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/558f9f51e85b46e9fa000025
 
 DESCRIPTION:
+
 Recreation of Project Euler problem #6
 
 Find the difference between the sum of the squares of the first n natural numbers (1 <= n <= 100) and the
