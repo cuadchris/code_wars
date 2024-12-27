@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/586560a639c5ab3a260000f3/python
 
 DESCRIPTION:
+
 This Kata is intended as a small challenge for my students
 
 Your family runs a shop and have just brought a Scrolling Text Machine 
