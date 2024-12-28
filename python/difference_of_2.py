@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/5340298112fa30e786000688
 
 DESCRIPTION:
+
 The objective is to return all pairs of integers from a given array of integers that have a 
 difference of 2.
 
