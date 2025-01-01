@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/64cac86333ab6a14f70c6fb6/python
 
 DESCRIPTION:
+
 You will be given an array of events, which are represented by strings. The strings are 
 dates in HH:MM:SS format.
 
