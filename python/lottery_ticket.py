@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/57f625992f4d53c24200070e
 
 DESCRIPTION:
+
 Time to win the lottery!
 
 Given a lottery ticket (ticket), represented by an array of 2-value arrays, you must find out if you've won the jackpot.
