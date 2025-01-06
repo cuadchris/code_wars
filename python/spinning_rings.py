@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/59afff65f1c8274f270020f5
 
 DESCRIPTION:
+
 Imagine two rings with numbers on them. The inner ring spins clockwise (decreasing by 1 each spin) and the outer ring 
 spins counter clockwise (increasing by 1 each spin). We start with both rings aligned on 0 at the top, and on each move we 
 spin each ring one increment. How many moves will it take before both rings show the same number at the top again?
