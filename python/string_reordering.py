@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/5b047875de4c7f9af800011b
 
 DESCRIPTION:
+
 The input will be an array of dictionaries.
 
 Return the values as a string-seperated sentence in the order of their keys' integer equivalent
