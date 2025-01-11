@@ -3,11 +3,8 @@ https://www.codewars.com/kata/539de388a540db7fec000642/python
 
 DESCRIPTION:
 
-Story
 Your online store likes to give out coupons for special occasions. Some customers try to cheat the system by
 entering invalid codes or using expired coupons.
-
-Task
 
 Your mission:
 Write a function called checkCoupon which verifies that a coupon code is valid and not expired.
