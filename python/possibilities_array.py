@@ -12,13 +12,13 @@ if the array is an array of all possibilities, else false.
 Examples:
 
 [1,2,0,3] => True
-# Includes all numbers between 0 and a.length - 1 (4 - 1 = 3)
+Includes all numbers between 0 and a.length - 1 (4 - 1 = 3)
 
 [0,1,2,2,3] => False
-# Doesn't include all numbers between 0 and a.length - 1 (5 - 1 = 4)
+Doesn't include all numbers between 0 and a.length - 1 (5 - 1 = 4)
 
 [0] => True
-# Includes all numbers between 0 and a.length - 1 (1 - 1 = 0).
+Includes all numbers between 0 and a.length - 1 (1 - 1 = 0).
 '''
 
 def is_all_possibilities(arr):
