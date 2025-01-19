@@ -11,6 +11,7 @@ Examples:
 5, true, false     -->  [true, false, true, false, true]
 10, "blue", "red"  -->  ["blue", "red", "blue", "red", "blue", "red", "blue", "red", "blue", "red"]
 0, "one", "two"    -->  []
+
 Good luck!
 '''
 
