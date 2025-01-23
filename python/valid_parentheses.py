@@ -11,7 +11,8 @@ Examples
 ")(()))"          =>  false
 "("               =>  false
 "(())((()())())"  =>  true
-Constraints
+
+Constraints:
 0 <= length of input <= 100
 
 All inputs will be strings, consisting only of characters ( and ).
