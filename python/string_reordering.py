@@ -11,7 +11,8 @@ Return the values as a string-seperated sentence in the order of their keys' int
 The keys are not reoccurring and their range is -999 < key < 999. The dictionaries' keys & values will
 always be strings and will always not be empty.
 
-Example
+Example:
+
 Input:
 List = [
         {'4': 'dog' }, {'2': 'took'}, {'3': 'his'},
