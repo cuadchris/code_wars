@@ -10,7 +10,8 @@ array and the mean of the last y elements of the array.
 The mean should be computed if both x and y have values higher than 1 but less or equal 
 to the array's length. Otherwise the function should return -1.
 
-Examples
+Examples:
+
 [1, 3, 2, 4], 2, 3 => should return 2.5
 because: the mean of the the first 2 elements of the array is (1+3)/2=2 and the mean of 
 the last 3 elements of the array is (4+2+3)/3=3 so the mean of those 2 means is (2+3)/2=2.5.
