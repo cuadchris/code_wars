@@ -8,6 +8,7 @@ and returns True if exactly two of of the three integers are positive numbers
 (greater than zero), and False - otherwise.
 
 Examples:
+
 two_are_positive(2, 4, -3) == True
 two_are_positive(-4, 6, 8) == True
 two_are_positive(4, -6, 9) == True
