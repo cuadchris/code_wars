@@ -11,7 +11,8 @@ other, and False otherwise. Remember that order is important.
 
 Your solution must be able to handle words with more than 10 characters.
 
-Example
+Example:
+
 True:
 
 CBAABC DEFFED
