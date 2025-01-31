@@ -10,8 +10,6 @@ algorithm to any number we will always eventually reach one:
 if(number is odd) number = 3*number + 1
 
 
-Task
-
 Your task is to make a function hotpo that takes a positive n as input and returns the number of times 
 you need to perform this algorithm to get n = 1.
 
