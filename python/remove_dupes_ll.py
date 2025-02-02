@@ -17,7 +17,8 @@ The number of nodes in the list is in the range [0, 300].
 -100 <= Node.val <= 100
 The list is guaranteed to be sorted in ascending order.
 
-Definition for singly-linked list.
+Definition for singly-linked list:
+
 class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
