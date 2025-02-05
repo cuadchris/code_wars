@@ -14,6 +14,7 @@ def isEven(num):
 arr = [2,4,6,8,1,2,5,4,3,2]
 
 dropWhile(arr, isEven) == [1,2,5,4,3,2] # True
+
 Your task is to implement the dropWhile function. If you've got a span function lying around, this is a 
 one-liner! Alternatively, if you have a takeWhile function on your hands, then combined with the dropWhile 
 function, you can implement the span function in one line. This is the beauty of functional 
