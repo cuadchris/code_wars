@@ -17,7 +17,6 @@ Examples
 
 ["O--#--O", "dustO---Odust", "more dust"] ➞ 1
 
-Notes
 All lists will include one valid pair of glasses because I swear I dropped them around here somewhere ...
 All elements in the list are strings.
 '''
