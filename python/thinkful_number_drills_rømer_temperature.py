@@ -14,7 +14,9 @@ currently in degrees Celsius. You don't want to convert everything by hand, so y
 function, celsius_to_romer() that takes a temperature in degrees Celsius and returns the equivalent
 temperature in degrees Rømer.
 
-For example: celsius_to_romer(24) should return 20.1.
+For example:
+
+celsius_to_romer(24) should return 20.1.
 '''
 
 def celsius_to_romer(temp):
