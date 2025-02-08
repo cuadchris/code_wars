@@ -15,13 +15,14 @@ from others with a pause too.
 3  L  M  N  O  P
 4  Q  R  S  T  U
 5  V  W  X  Y  Z
+
 Input:
 A lowercase string of a single word (no whitespaces or punctuation, only letters).
 
 Output:
 The encoded string as taps and pauses.
 
-Examples
+Examples:
 text = "dot"
   "D" = (1, 4) = ". ...."
   "O" = (3, 4) = "... ...."
