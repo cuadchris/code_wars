@@ -15,7 +15,7 @@ We know that 0! = 1 (because n! = (n + 1)! / (n + 1) therefore 0! = 1! / 1 = 1)
 
 And your solution should be able to calculate n! / d!.
 
-*** Please, don't worry about the parameters. You will only receive positive integers, and the first one
+Please, don't worry about the parameters. You will only receive positive integers, and the first one
 will be greater than the second one
 '''
 
