@@ -16,6 +16,7 @@ three_powers(15)  # False
 Input:
 - `n` must be an integer.
 - `1` <= `n` <= `2 ** 100 - 1`
+
 There are 2000 random tests for the speed test, good luck and happy coding.
 '''
 
