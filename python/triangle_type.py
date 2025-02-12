@@ -19,6 +19,7 @@ Input parameters are sides of given triangle. All input values are non-negative 
 point or integer numbers (or both).
 
 Examples:
+
 triangle_type(2, 4, 6)  return 0 (Not triangle)
 triangle_type(8, 5, 7)  return 1 (Acute, angles are approx. 82°, 38° and 60°)
 triangle_type(3, 4, 5)  return 2 (Right, angles are approx. 37°, 53° and exactly 90°)
