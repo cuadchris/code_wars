@@ -16,6 +16,7 @@ Write a program that reads in a Lojban string (representing a number less than o
 outputs it in numbers.
 
 Example:
+
 renonore  # Lojban string
 2002  # Number
 Input/Output
