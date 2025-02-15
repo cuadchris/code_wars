@@ -10,6 +10,7 @@ Your function should return True or False based on the following criteria.
 
 You should take an umbrella if it's currently raining or if it's cloudy and the chance of rain is over
 0.20.
+
 You shouldn't take an umbrella if it's sunny unless it's more likely to rain than not.
 The options for the current weather are sunny, cloudy, and rainy.
 
