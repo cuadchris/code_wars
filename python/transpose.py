@@ -21,7 +21,7 @@ A few things to note:
 There should be one space in between the two characters
 You don't have to modify the case (i.e. no need to change to upper or lower)
 If one string is longer than the other, there should be a space where the character 
-would be
+would be.
 '''
 
 def transpose_two_strings(arr):
