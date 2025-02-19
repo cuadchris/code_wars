@@ -11,6 +11,7 @@ Your job is to return a list of two strings (in the same order as the original l
 but with the characters after each colon swapped.
 
 Examples:
+
 ["abc:123", "cde:456"]  -->  ["abc:456", "cde:123"]
 ["a:12345", "777:xyz"]  -->  ["a:xyz", "777:12345"]
 '''
