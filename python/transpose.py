@@ -16,6 +16,7 @@ e o
 l r  
 l l  
 o d
+
 A few things to note:
 
 There should be one space in between the two characters
