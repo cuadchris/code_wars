@@ -16,7 +16,8 @@ Example:
 6 sided die would have 6 opposite 1, 4 opposite 3, and so on. for this exercise, the 10 sided die 
 starts at 1 and ends on 10.
 
-Note: topNum will never be greater than numOfSides
+Note:
+topNum will never be greater than numOfSides
 '''
 
 def totalAmountVisible(topNum, numOfSides):
