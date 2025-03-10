@@ -14,6 +14,7 @@ three_powers(5)  # True, 5 = 2**0 + 2**1 + 2**1
 three_powers(15)  # False
 
 Input:
+
 - `n` must be an integer.
 - `1` <= `n` <= `2 ** 100 - 1`
 
