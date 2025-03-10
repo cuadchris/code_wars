@@ -23,7 +23,7 @@ count_correct_characters("dog", "dog"); #3 (Correct!)
 The caller should ensure that the guessed word is always the same length as the correct word, but since it
 could cause problems if this were not the case, you need to check for this eventuality:
 
-#Raise an exception if the two parameters are of different lengths.
+Raise an exception if the two parameters are of different lengths.
 You may assume, however, that the two parameters will always be in the same case.
 '''
 
