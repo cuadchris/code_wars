@@ -15,6 +15,7 @@ The missing term will never be the first or last one.
 Example:
 
 find_missing([1, 3, 5, 9, 11]) == 7
+
 PS: This is a sample question of the facebook engineer challenge on interviewstreet. I found it quite
 fun to solve on paper using math, derive the algo that way. Have fun!
 '''
