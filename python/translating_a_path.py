@@ -16,6 +16,7 @@ The path is input to you as a string of the following characters where:
 For example, a valid path would look like:
 
 "^^vv>><<^v>"
+
 However, you are a robot that cannot understand this string of characters just by looking at it. You need detailed instructions on how
 to follow the path.
 
