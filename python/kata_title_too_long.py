@@ -10,7 +10,9 @@ The opposite means: All letters of the two strings are the same, but the case is
 the string only contains letters or it's a empty string. Also take note of the edge case - if both strings are 
 empty then you should return false/False.
 
-Examples (input -> output)
+Examples:
+
+(input -> output)
 "ab","AB"     -> true
 "aB","Ab"     -> true
 "aBcd","AbCD" -> true
