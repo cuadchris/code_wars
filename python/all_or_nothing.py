@@ -27,7 +27,8 @@ still score 100%. Incomplete questions are marked with an underscore, "_".
 ➞ True
 
 # Possible for student to get all questions incorrect.
-Examples
+
+Examples:
 
 (["B", "A", "_", "_"], ["B", "A", "C", "C"]) ➞ True
 
