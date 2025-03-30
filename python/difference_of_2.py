@@ -11,7 +11,8 @@ The result array should be sorted in ascending order of values.
 Assume there are no duplicate integers in the array. The order of the integers in the input 
 array should not matter.
 
-Examples
+Examples:
+
 [1, 2, 3, 4]  should return [(1, 3), (2, 4)]
 
 [4, 1, 2, 3]  should also return [(1, 3), (2, 4)]
