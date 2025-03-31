@@ -10,6 +10,7 @@ Example:
 For input array/list :
 
 [1,2,3,4]
+
 the function should return :
 
 [1,4,3,8]
