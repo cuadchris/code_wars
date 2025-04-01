@@ -24,6 +24,7 @@ Output -> 2
 
 Input -> []
 Output -> 0
+
 Good luck
 '''
 
