@@ -14,6 +14,7 @@ Here are examples of latin squares of size 4 and 7:
                       [5, 6, 4, 3, 7, 2, 1], 
                       [1, 2, 7, 6, 3, 5, 4], 
                       [3, 4, 2, 1, 5, 7, 6]]
+                    
 Latin squares have many practical uses, for example in error-correcting-codes and the design of 
 agricultural experiments. See https://en.wikipedia.org/wiki/Latin_square for more details. Sudoku is a 
 special type of 9 x 9 latin square, with additional conditions.
