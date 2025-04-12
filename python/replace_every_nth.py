@@ -12,7 +12,8 @@ old_value (or similar): the targetted character
 new_value (or similar): the character to use as replacement
 Note for untyped languages: all inputs are always valid and of their expected type.
 
-Rules
+Rules:
+
 Your method has to be case sensitive!
 If n is 0 or negative or if it is larger than the count of the oldValue, return the 
 original text without a change.
