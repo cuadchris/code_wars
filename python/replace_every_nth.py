@@ -17,6 +17,7 @@ Rules:
 Your method has to be case sensitive!
 If n is 0 or negative or if it is larger than the count of the oldValue, return the 
 original text without a change.
+
 Example:
 n:         2
 old_value: 'a'
