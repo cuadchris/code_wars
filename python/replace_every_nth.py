@@ -25,6 +25,7 @@ new_value: 'o'
 "Vader said: No, I am your father!"
    1     2          3        4       -> 2nd and 4th occurence are replaced
 "Vader soid: No, I am your fother!"
+
 As you can see in the example: The first changed is the 2nd 'a'. So the start is always 
 at the nth suitable char and not at the first!
 '''
