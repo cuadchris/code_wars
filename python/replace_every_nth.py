@@ -5,11 +5,14 @@ DESCRIPTION:
 
 Write a method, that replaces every nth char oldValue with char newValue.
 
-Inputs
+Inputs:
+
 text: the string to modify
+
 n: change the target letter every nth occurrencies
 old_value (or similar): the targetted character
 new_value (or similar): the character to use as replacement
+
 Note for untyped languages: all inputs are always valid and of their expected type.
 
 Rules:
