@@ -11,6 +11,7 @@ The inner ring has integers from 0 to innerMax and the outer ring has integers f
 outerMax are integers >= 1.
 
 e.g. if innerMax is 2 and outerMax is 3 then after
+
 1 move: inner = 2, outer = 1
 2 moves: inner = 1, outer = 2
 3 moves: inner = 0, outer = 3
