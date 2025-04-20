@@ -10,6 +10,7 @@ Given x and y calculate Julie's age using the function age(x, y).
 For example:
 
 age(6, 3) returns 9
+
 Note also that x can be negative, and y can be a decimal.
 
 age(-15, 0.25) returns 5
