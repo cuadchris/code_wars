@@ -12,9 +12,11 @@ Given a string, return the number of keystrokes necessary to type it. You can as
 entirely consist of characters included in the mobile layout (lowercase letters, digits, and the symbols * and #).
 
 Examples:
+
 "*#"       =>  2 (1 + 1)
 "123"      =>  3 (1 + 1 + 1)
 "abc"      =>  9 (2 + 3 + 4)
+
 "codewars" => 26 (4 + 4 + 2 + 3 + 2 + 2 + 4 + 5)
 '''
 
