@@ -12,12 +12,14 @@ The keys are not reoccurring and their range is -999 < key < 999. The dictionari
 always be strings and will always not be empty.
 
 Input:
+
 List = [
         {'4': 'dog' }, {'2': 'took'}, {'3': 'his'},
         {'-2': 'Vatsan'}, {'5': 'for'}, {'6': 'a'}, {'12': 'spin'}
        ]
 
 Output:
+
 'Vatsan took his dog for a spin'
 '''
 
