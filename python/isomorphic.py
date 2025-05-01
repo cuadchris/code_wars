@@ -14,12 +14,11 @@ Your solution must be able to handle words with more than 10 characters.
 Example:
 
 True:
-
 CBAABC DEFFED
 XXX YYY
 RAMBUNCTIOUSLY THERMODYNAMICS
-False:
 
+False:
 AB CC
 XXY XYY
 ABAB CD
