@@ -20,6 +20,7 @@ control string. Don't reduce this fraction to a simpler expression.
 The string has a length greater or equal to one and contains only letters from ato z.
 
 Examples:
+
 s="aaabbbbhaijjjm"
 printer_error(s) => "0/14"
 
