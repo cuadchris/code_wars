@@ -24,8 +24,6 @@ Output -> 2
 
 Input -> []
 Output -> 0
-
-Good luck
 '''
 
 def check_logs(log):
