@@ -8,8 +8,6 @@ by downSpeed meters due to the lack of sun heat. Initially, plant is 0 meters ta
 plant the seed at the beginning of a day. We want to know when the height of the plant 
 will reach a certain level.
 
-Example:
-
 For upSpeed = 100, downSpeed = 10 and desiredHeight = 910, the output should be 10.
 
 After day 1 --> 100
