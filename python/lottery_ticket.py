@@ -10,6 +10,7 @@ Given a lottery ticket (ticket), represented by an array of 2-value arrays, you 
 Example ticket:
 
 [ [ 'ABC', 65 ], [ 'HGR', 74 ], [ 'BYHT', 74 ] ]
+
 To do this, you must first count the 'mini-wins' on your ticket. Each subarray has both a string and a number within it. If the
 character code of any of the characters in the string matches the number, you get a mini win. Note you can only have one mini win 
 per sub array.
