@@ -13,7 +13,9 @@ than a half of 8.
 
 Write a function dominator(arr) that, given a zero-indexed array arr consisting of n 
 integers, returns the dominator of arr. The function should return −1 if array does not 
-have a dominator. All values in arr will be >=0.
+have a dominator.
+
+All values in arr will be >=0.
 '''
 
 def dominator(arr):
