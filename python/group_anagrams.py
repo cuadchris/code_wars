@@ -15,6 +15,7 @@ Example 2:
 
 Input: strs = [""]
 Output: [[""]]
+
 Example 3:
 
 Input: strs = ["a"]
