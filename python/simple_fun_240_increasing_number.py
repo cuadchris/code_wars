@@ -36,6 +36,7 @@ In each ith operation, x should increase to a multiple of i.
 5 times operation:
 
 x starting from 9
+
 1st operation: 9 is already a multiple of 1, no need increase anymore.
 2nd operation: increase x to 10, which is a multiple of 2.
 3rd operation: increase x to 12, which is a multiple of 3.
