@@ -1,8 +1,6 @@
 '''
 https://www.codewars.com/kata/63ebadc7879f2500315fa07e/python
 
-DESCRIPTION:
-
 A researcher is studying cell division in a large number of samples. Counting the cells in each sample is automated, but when she 
 looks at the data, she immediately notices that something is wrong.
 
