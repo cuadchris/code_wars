@@ -23,6 +23,7 @@ Input/Output
 [input] string representing the number in Lojban pareci
 
 Constraints: Lojban number ≤ 1,000,000
+
 [output] integer representing the Lojban number 123
 '''
 
