@@ -10,7 +10,6 @@ The pattern consists of delegating the responsibility to a different class.
 
 When a unit takes damage it can tell the visitor what to do with itself.
 
-Your Task
 Complete the code so that when a Tank attacks a Marine it takes 21 damage and when a Tank attacks a Marauder it
 takes 32 damage.
 
