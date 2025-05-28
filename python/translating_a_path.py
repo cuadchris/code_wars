@@ -35,6 +35,7 @@ Take 2 steps left
 Take 1 step up
 Take 1 step down
 Take 1 step right
+
 Notice that groups of the same characters translate to one instruction only, telling you to take multiple steps.
 
 Notes:
