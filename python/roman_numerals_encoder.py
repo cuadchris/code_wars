@@ -14,6 +14,7 @@ in descending order.
 Example:
 
 solution('XXI')  should return 21
+
 Help:
 
 Symbol    Value
