@@ -10,6 +10,7 @@ For example, the transpose of:
 
 | 1 2 3 |
 | 4 5 6 |
+
 is
 
 | 1 4 |
