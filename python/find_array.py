@@ -1,7 +1,7 @@
 '''
 https://www.codewars.com/kata/59a2a3ba5eb5d4e609000055/python
 
-DESCRIPTION
+DESCRIPTION:
 
 You are given two arrays arr1 and arr2, where arr2 always contains integers.
 
