@@ -2,7 +2,6 @@
 https://www.codewars.com/kata/54530f75699b53e558002076/python
 
 DESCRIPTION:
-
 Complete the function word (string) and returns a string that spells the word using the 
 NATO phonetic alphabet.
 
